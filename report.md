@@ -8,11 +8,11 @@ Hello, this is a Markdown file.
 
 
 # Level 3: The Exploit (TOC-TOU Vulnerability)
-Run 1 final inventory: 76
-Run 2 final inventory: 78
-Run 3 final inventory: 78
-Run 4 final inventory: 68
-Run 5 final inventory: 82
+Run 1 final inventory: 76<br>
+Run 2 final inventory: 78<br>
+Run 3 final inventory: 78<br>
+Run 4 final inventory: 68<br>
+Run 5 final inventory: 82<br>
 
 Explanation:
 The final inventory changes because many processes run at the same time and access inventory.txt concurrently.
